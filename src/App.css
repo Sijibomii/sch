@@ -5,6 +5,12 @@
 
 @media (min-width: 1024px){
   /* on lg screens */
+ 
+  .swiper-con{
+    padding-left: 130px;
+    padding-right: 130px;
+  }
+
   .carousel > .thumbs-wrapper{
     display: flex;
     align-items: center;
